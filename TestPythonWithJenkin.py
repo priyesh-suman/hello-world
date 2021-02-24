@@ -1,5 +1,5 @@
 
-fh = open('Try.txt','a')
+fh = open('Try1.txt','a')
 for i in range (10):
     fh.writelines("This is us %d\n" %i)
     
